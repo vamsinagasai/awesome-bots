@@ -208,7 +208,7 @@ This project is no longer actively supported.
 * [Indie Localizers Team](https://www.indielocalization.com) - Release polyglot bots with our human help. We're a team of localizers, developers, testers, and SEOs that can help you add more languages to your bot
 
 #### Customer service
-* [Steps AI Chatbot](https://stepsai.co/) - Website chatbot for customer support and sales that resolves common questions instantly, captures leads, and escalates complex issues to humans
+* [Steps AI Chatbot](https://stepsai.co/) - AI Website chatbot for customer support and sales that resolves common questions instantly, captures leads, and escalates complex issues to humans
 * [LiveChat24/7](https://www.livechat24-7.com/) - Discover how our Chatbot supported Live Chat is the easiest and best way to save time and improve customer service
 * [agent.ai](https://www.agent.ai/) - AI-Enhanced Customer Service. Let artificial intelligence resolve your customers’ frequently asked questions in seconds, not days
 
